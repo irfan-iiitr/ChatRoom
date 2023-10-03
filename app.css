@@ -1,0 +1,8 @@
+.Box {
+/* Set your desired height */
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;;
+     background-opacity: 0.5;
+  }
